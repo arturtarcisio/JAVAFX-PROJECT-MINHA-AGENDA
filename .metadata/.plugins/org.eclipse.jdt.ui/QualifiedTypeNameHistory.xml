@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TableView"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javafx.collections.ObservableList"/>
+    <fullyQualifiedTypeName name="javafx.collections.FXCollections"/>
+    <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
+    <fullyQualifiedTypeName name="javafx.beans.value.ChangeListener"/>
+    <fullyQualifiedTypeName name="br.com.treinaweb.agenda.entidades.Contato"/>
+    <fullyQualifiedTypeName name="br.com.treinaweb.agenda.repositorios.interfaces.AgendaRepositorio"/>
+    <fullyQualifiedTypeName name="br.com.treinaweb.agenda.repositorios.impl.ContatoRepositorio"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Alert"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.Alert.AlertType"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+</qualifiedTypeNameHistroy>
